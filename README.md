@@ -75,12 +75,4 @@ This project is licensed under the MIT License. The MIT License allows:
 - The project is provided "as is," without warranty of any kind.
 - You must retain the original copyright notice in any copies.
 
-Please see the LICENSE file for more details.
 """
-
-# Save the simplified version as a Readme.md file
-file_path = "/mnt/data/Readme_simple.md"
-with open(file_path, "w") as f:
-    f.write(readme_content_simple)
-
-file_path
