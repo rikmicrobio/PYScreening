@@ -1,6 +1,6 @@
-# Re-defining the readme_content variable without emojis to make it simpler and avoid encoding issues.
 
-readme_content_simple = """
+
+
 # PYScreening
 ## 1. Introduction
 Welcome to the repository for our latest project on virtual screening of small molecules using **Lipinski's Rule of Five**. This project aims to develop a comprehensive pipeline for filtering large sets of molecules based on **Lipinski's Rule**, a well-established guideline for predicting the oral bioavailability of drug candidates. The workflow includes:
